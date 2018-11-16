@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_fa64b5d5daabf93293688252e108df692f876f07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_e13b0752d599bbf6d414295ac0a546d6b0c7c8e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_9fee40d742dbe1eca6aa4e07f5b2b3df399d3546/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_7db68da241d7bd30d26fed23803281c89aec8137/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b326e9240ec02c7b0b979933076b759c11bbf763/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_6fa4dd62e315bc65f97376bb37271c0e68c6e803/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_81ef330764391c463a109180a04c040973822291/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_1ad2d080d00ae7c9b16f20fc59a9ee5ad506dbc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_c4450971d820dfc7ac72c365e1912f1294bd16d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidDevelopment/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_f0867a263e6c5d0e0f4cfd34b46549803351a4ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="591a96ac0908b587190bf4843bf8d6182bd29668">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e0f293893bb240e04a796cb76ea6438c3adfd4af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_f1556cc01df314dc4f703cd1d5e4c5c8980f929e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_a564c0d7cda94340967704a1a8a61a301ce0bcc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c62423966e97071131e9c16d89ffaa003fe6a5d1">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/pub.devrel-easypermissions-0.2.1_5154489af2a271e521571c49da5360f9fbbf89d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_224aa1ca621b406c21bc79a71b10b1b81274e682/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_bb2afad5fadcb542bb53355f7a5db39a83d477d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="eb33ce0b3e515130b33079d3d8e723a3bc1d4201">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_df21d60750381374a8123bb4d99e9278e84e81b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/wangke/AndroidStudioProjects/XiaoHuanXiongScan/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_a2a5fefff3fdc7ce02db0fc8eaa4f940665c051b/classes.dex" />
+    </item>
+
+</items>
